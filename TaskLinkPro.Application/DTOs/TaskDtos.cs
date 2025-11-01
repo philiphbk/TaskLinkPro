@@ -2,7 +2,7 @@
 namespace TaskLinkPro.Application.DTOs;
 
 public record CreateTaskRequest(string Title, string? Description, Guid? AssigneeId,
-    TaskLinkPro.Domain.Entities.TaskPriority Priority = TaskPriority.Medium, DateTime? DueDate = null);
+    TaskLinkPro.Domain.Entities.TaskPriority Priority = TaskLinkPro.Domain.Entities.TaskPriority.Medium, DateTime? DueDate = null);
 
 public record UpdateTaskRequest(string Title, string? Description, Guid? AssigneeId,
     TaskLinkPro.Domain.Entities.TaskStatus Status, TaskLinkPro.Domain.Entities.TaskPriority Priority, DateTime? DueDate, string IfMatch);

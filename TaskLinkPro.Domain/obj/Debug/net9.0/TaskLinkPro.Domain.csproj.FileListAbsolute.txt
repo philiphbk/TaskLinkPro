@@ -9,3 +9,4 @@
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/refint/TaskLinkPro.Domain.dll
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/TaskLinkPro.Domain.pdb
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/ref/TaskLinkPro.Domain.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/TaskLinkPro.Domain.sourcelink.json

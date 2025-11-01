@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TaskLinkPro.Api</name>
+    </assembly>
+    <members>
+        <member name="T:TaskLinkPro.Api.Authorization.ProjectOwnerOrAdminRequirement">
+            <summary>
+            Authorization requirement used to allow only project owners or admins.
+            </summary>
+        </member>
+        <member name="M:TaskLinkPro.Api.Authorization.ProjectOwnerOrAdminHandler.#ctor(TaskLinkPro.Infrastructure.TaskLinkDbContext)">
+            <summary>DI constructor.</summary>
+        </member>
+        <member name="M:TaskLinkPro.Api.Authorization.ProjectOwnerOrAdminHandler.HandleRequirementAsync(Microsoft.AspNetCore.Authorization.AuthorizationHandlerContext,TaskLinkPro.Api.Authorization.ProjectOwnerOrAdminRequirement)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

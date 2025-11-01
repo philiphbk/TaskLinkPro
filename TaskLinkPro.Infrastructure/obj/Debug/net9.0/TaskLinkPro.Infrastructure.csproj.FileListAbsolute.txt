@@ -15,3 +15,4 @@
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net9.0/TaskLinkPro.Infrastructure.pdb
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net9.0/TaskLinkPro.Infrastructure.genruntimeconfig.cache
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net9.0/ref/TaskLinkPro.Infrastructure.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net9.0/TaskLinkPro.Infrastructure.sourcelink.json

@@ -3,3 +3,14 @@
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.AssemblyInfoInputs.cache
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.AssemblyInfo.cs
 /Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.csproj.CoreCompileInputs.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.sourcelink.json
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/bin/Debug/net9.0/TaskLinkPro.Application.deps.json
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/bin/Debug/net9.0/TaskLinkPro.Application.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/bin/Debug/net9.0/TaskLinkPro.Application.pdb
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/bin/Debug/net9.0/TaskLinkPro.Domain.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/bin/Debug/net9.0/TaskLinkPro.Domain.pdb
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLink.BC13EE03.Up2Date
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/refint/TaskLinkPro.Application.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.pdb
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/ref/TaskLinkPro.Application.dll

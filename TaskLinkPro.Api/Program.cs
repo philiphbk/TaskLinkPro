@@ -307,7 +307,7 @@ tasksGroup.MapPost("/", async (Guid projectId, CreateTaskRequest req, TaskLinkDb
         AssigneeId = req.AssigneeId,
         Priority = req.Priority,
         DueDate = req.DueDate,
-        Status = TaskStatus.Todo,
+        Status = TaskLinkPro.Domain.Entities.TaskStatus.Todo,
         CreatedAt = DateTime.UtcNow,
         UpdatedAt = DateTime.UtcNow
     };
