@@ -1,0 +1,5 @@
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.csproj.AssemblyReference.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.AssemblyInfoInputs.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.AssemblyInfo.cs
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/Debug/net9.0/TaskLinkPro.Application.csproj.CoreCompileInputs.cache

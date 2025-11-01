@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/TaskLinkPro.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/TaskLinkPro.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/TaskLinkPro.Application.csproj",
+        "projectName": "TaskLinkPro.Application",
+        "projectPath": "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/TaskLinkPro.Application.csproj",
+        "packagesPath": "/Users/damilolafajorin/.nuget/packages/",
+        "outputPath": "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/damilolafajorin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/TaskLinkPro.Domain.csproj": {
+                "projectPath": "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/TaskLinkPro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/TaskLinkPro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/TaskLinkPro.Domain.csproj",
+        "projectName": "TaskLinkPro.Domain",
+        "projectPath": "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/TaskLinkPro.Domain.csproj",
+        "packagesPath": "/Users/damilolafajorin/.nuget/packages/",
+        "outputPath": "/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/damilolafajorin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

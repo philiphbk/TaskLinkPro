@@ -1,0 +1,17 @@
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/bin/Debug/net10.0/TaskLinkPro.Infrastructure.deps.json
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/bin/Debug/net10.0/TaskLinkPro.Infrastructure.runtimeconfig.json
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/bin/Debug/net10.0/TaskLinkPro.Infrastructure.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/bin/Debug/net10.0/TaskLinkPro.Infrastructure.pdb
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/bin/Debug/net10.0/TaskLinkPro.Domain.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/bin/Debug/net10.0/TaskLinkPro.Domain.pdb
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLinkPro.Infrastructure.csproj.AssemblyReference.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLinkPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLinkPro.Infrastructure.AssemblyInfoInputs.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLinkPro.Infrastructure.AssemblyInfo.cs
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLinkPro.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLink.A96C48E2.Up2Date
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLinkPro.Infrastructure.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/refint/TaskLinkPro.Infrastructure.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLinkPro.Infrastructure.pdb
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/TaskLinkPro.Infrastructure.genruntimeconfig.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Infrastructure/obj/Debug/net10.0/ref/TaskLinkPro.Infrastructure.dll

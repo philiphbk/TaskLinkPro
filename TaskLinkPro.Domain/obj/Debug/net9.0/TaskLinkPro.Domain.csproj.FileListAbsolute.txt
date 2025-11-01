@@ -1,0 +1,11 @@
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/bin/Debug/net9.0/TaskLinkPro.Domain.deps.json
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/bin/Debug/net9.0/TaskLinkPro.Domain.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/bin/Debug/net9.0/TaskLinkPro.Domain.pdb
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/TaskLinkPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/TaskLinkPro.Domain.AssemblyInfoInputs.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/TaskLinkPro.Domain.AssemblyInfo.cs
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/TaskLinkPro.Domain.csproj.CoreCompileInputs.cache
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/TaskLinkPro.Domain.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/refint/TaskLinkPro.Domain.dll
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/TaskLinkPro.Domain.pdb
+/Users/damilolafajorin/Projects/TaskLinkPro/TaskLinkPro.Domain/obj/Debug/net9.0/ref/TaskLinkPro.Domain.dll
